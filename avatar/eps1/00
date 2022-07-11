@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:1419
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1419.000,
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/QDBX80/hdjsDw/ts/ChTgX_W4_b07qVg_sgabwHDzyf0OWRAA.ts?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1658748352&Signature=BAOXwNqhsjfmh2jpxOy6X4QSalM%3D&ngsw-bypass=1
+#EXT-X-ENDLIST
